@@ -55,4 +55,4 @@ amtixdev.on('ready', () => {
     }, 5000)
 }); 
 
-amtixdev.login(process.env.token);
+amtixdev.login(""); // Your Account Here
